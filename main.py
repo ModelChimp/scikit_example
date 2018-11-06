@@ -1,6 +1,6 @@
 # MODELCHIMP: import and instantiate modelchimp tracker
 from modelchimp import Tracker
-tracker = Tracker('<PROJECT KEY>', 'demo.modelchimp.com')
+tracker = Tracker('<PROJECT KEY>', 'demo.modelchimp.com', auto_log=True)
 
 from sklearn.datasets import load_breast_cancer
 from sklearn.model_selection import train_test_split
