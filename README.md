@@ -19,7 +19,7 @@ Its assumed that scikit is already installed
 Create the project in modelchimp and copy the project key to the code in main.py
 
 ![alt text](https://docs.modelchimp.com/doc_project_definition.png )
-![alt text](https://docs.modelchimp.com/assets/doc_project_key.png )
+![alt text](https://docs.modelchimp.com/doc_project_key.png )
 
 ```python
 # MODELCHIMP: import and instantiate modelchimp tracker
